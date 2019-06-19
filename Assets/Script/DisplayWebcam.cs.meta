@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99603ecbe37ed204a99c735cf2083d15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Renderer: {instanceID: 0}
+  - m_MainTexture: {fileID: 8400000, guid: bf126e1427b9b3241941315bd5ed072e, type: 2}
+  - TextureCamera: {fileID: 2100000, guid: 70b79728fd23d4d4a90e617a2149d1e5, type: 2}
+  - myobject: {instanceID: 0}
+  - thetexture: {fileID: 8400000, guid: bf126e1427b9b3241941315bd5ed072e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

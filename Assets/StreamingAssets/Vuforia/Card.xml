@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cartedepart" size="0.250000 0.140625" />
+    <ImageTarget name="arrivee" size="25.000000 35.390297" />
+    <ImageTarget name="start" size="25.000000 30.008945" />
+  </Tracking>
+</QCARConfig>
